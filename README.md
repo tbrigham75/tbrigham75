@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on an Ansible role for Infrastructure as Code (IaC) for my home lab.
+- 🌱 I’m currently learning Kubernetes:  K3s, Rancher, ArgoCD, and Traefik.
 
 <!--
 **tbrigham75/tbrigham75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
