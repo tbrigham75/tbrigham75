@@ -1,5 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on an Ansible role for Infrastructure as Code (IaC) for my home lab.
+My name is Tom, and I'm a seasoned System Administrator diving into the world of DevOps.
+
+- 🔭 I’m currently working on an Ansible role for Infrastructure as Code (IaC) for my home lab.  I've written multiple Ansible roles and will eventually combine them all to deploy my entire home lab.  Check them out [here](https://github.com/tbrigham75/manage-systems)
 - 🌱 I’m currently learning Kubernetes:  K3s, Rancher, ArgoCD, and Traefik.
 
 <!--
