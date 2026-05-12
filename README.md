@@ -1,38 +1,60 @@
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">🏄‍♂️ Thomas Brigham</h1><a id="user-content-️-forrest-knight" class="anchor" aria-label="Permalink: 🏄‍♂️ Forrest Knight" href="#️-forrest-knight"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+# 🏄‍♂️ Thomas Brigham
+## Senior System Administrator & DevOps Specialist
 
-<code>I'm a seasoned System Administrator diving into the world of DevOps.</code></strong></p>
+I provide high-end technical solutions for businesses that need more than just a "template" fix. I specialize in **Modern Web Development**, **Infrastructure as Code**, and **Cloud Consulting**.
 
-- 🔭 I’m currently working on an Ansible role for Infrastructure as Code (IaC) for my home lab.  I've written multiple Ansible roles and will eventually combine them all to deploy my entire home lab.  Check them out [here](https://github.com/tbrigham75/manage-systems)
-- 🌱 I’m currently learning Kubernetes:  K3s, Rancher, ArgoCD, and Traefik.
+> **Currently Working On:** Automating a full home lab deployment using Ansible and Kubernetes.
 
-### 🧰 Languages and Tools
+[![Status](https://img.shields.io/badge/status-ready-green)]()
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 
-<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-<img align="left" alt="K3s" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-original.svg" />
-<img align="left" alt="Rancher" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original.svg" />
-<img align="left" alt="ArgoCD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Proxmox" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331552/proxmox.svg"
-<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+---
 
-<br />
+## 🛠 Core Services
 
+### 1. Infrastructure as Code (IaC)
+I help businesses eliminate manual server updates by building automated deployment pipelines.
+*   **Ansible Automation:** Custom role-based configuration management to deploy entire labs. 
+*   **CI/CD Pipelines:** Setting up automated testing and deployment workflows.
 
+### 2. Website Revamping & Modernization
+We take outdated web applications and rebuild them on modern, secure stacks (React, Next.js, TailwindCSS).
+*   **Performance Tuning:** Optimized for Core Web Vitals and SEO.
+*   **Security Hardening:** TLS/SSL implementation and modern auth flows.
 
+### 3. Cloud Consulting & Digital Transformation
+Moving clients away from legacy hosting to scalable cloud architectures.
+*   **Orchestration:** Kubernetes architecture (K3s, Rancher, ArgoCD, Traefik).
 
-<!--
-**tbrigham75/tbrigham75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **DevOps & Cloud** | **Development** | **Security & Admin** |
+| :--- | :--- | :--- |
+| ⚙️ **Ansible** (IaC) | ⚛️ **React & Next.js** | 🔒 **OAuth & TLS** |
+| ☸️ **Kubernetes** (K3s) | 📚 **Python** | 🐳 **Docker** |
+| 🚢 **ArgoCD & Traefik** | 🟦 **Node.js** | 📂 **Proxmox/VMware** |
+| 💻 **Linux & PowerShell** | 🐙 **GitHub Actions** | 🛡️ **Network Architecture** |
+
+---
+
+## 🔭 What I'm Working On
+
+### Ansible Infrastructure Automator
+I am currently developing a comprehensive suite of Ansible roles for Infrastructure as Code (IaC). My goal is to combine these roles into a single deployable architecture that can provision a production-grade home lab or corporate server environment instantly. 
+
+**[Check out the Ansible Roles Here](https://github.com/tbrigham75/manage-systems)**
+
+### Kubernetes & Rancher Learning Path
+I am deep-diving into K3s, Rancher, ArgoCD, and Traefik to master modern cluster orchestration and ingress routing.
+
+---
+
+## 📞 Contact
+
+Have a legacy system that needs revamping, or a business that needs to go Infrastructure as Code?
+
+**Email:** tbrigham@hotmail.com
+**Location:** Colorado Springs, CO
+**Availability:** Open to consulting and project-based contracts.
